@@ -148,3 +148,5 @@ friends: [
         href: "http://xieminis.me/"
     }
 ]
+
+theme: jekyll-theme-cayman
