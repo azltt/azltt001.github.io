@@ -3,7 +3,7 @@ title: Andy Blog
 SEOTitle: 安哲良的博客 | Andy Blog
 header-img: img/home-bg.jpg
 email: Andypro@gmail.com
-description: "关于程序与设计、黑客与画家 | 安哲良，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Andy安哲良 的个人博客，与你一起发现更大的世界。"
+description: "关于程序与设计、黑客与画家 | 安哲良，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @azltt安哲良 的个人博客，与你一起发现更大的世界。"
 keyword: "安哲良, Andy安哲良, Andy, 鬼栈, Andypro, @Andypro, 安哲良的博客, Andy Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://azltt.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Andyazl
-zhihu_username:     Andyazl
+weibo_username:     6568578009
+zhihu_username:     andy-80-80-44
 github_username:    azltt
-twitter_username:   Andyazl
+jianshu_username:   9b6dac795247
+#twitter_username:   Andyazl
 #facebook_username:  Andypro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -79,11 +80,11 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 7de2bdff1aab18040b89f23b244e4288
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: Andy.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: Andy.me
 
 
 
